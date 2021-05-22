@@ -338,3 +338,13 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# python libraries
+env/Lib/
+
+# excel files generated after the program is run
+players/
+
+# generated text files
+playerlinks.txt
+playerlinks - full.txt
